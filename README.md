@@ -63,7 +63,7 @@ int main() {
 }
 
 # Output:
-![alt text](c26.png)
+![alt text](c56.png)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
